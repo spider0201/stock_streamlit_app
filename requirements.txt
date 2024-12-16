@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+plotly
+keras
+scikit-learn
+vnstock3
